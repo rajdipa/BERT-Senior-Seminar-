@@ -9,3 +9,5 @@ The paper is broken into sections the following:
 3. BERT
 4. Conclusion
 5. References
+
+p.s. The presentation pdf is missing the chalkboard section of my talk
