@@ -10,4 +10,4 @@ The paper is broken into sections the following:
 4. Conclusion
 5. References
 
-p.s. The presentation pdf is missing the chalkboard section of my talk
+
